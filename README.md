@@ -4,9 +4,7 @@ OnlineShopperIntentions is a python program aimed to predict an online shopper's
 
 ## Contributors
 
-Goldie Malamud
-Emily Daskas
-Lily Foster
+Goldie Malamud, Emily Daskas, Lily Foster
 
 ## Data Set
 http://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset#
