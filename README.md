@@ -1,6 +1,6 @@
 # Online Shopper Intentions - Data Mining Final Project
 
-OnlineShopperIntentions is a python program aimed to predict an online shopper's intention (i.e. will they purchase items on their website visit?)
+OnlineShopperIntentions is a python program aimed to predict an online shopper's intention (i.e. will they purchase items on their website visit?) by using several supervised machine learning algorithms to classify unknown samples. 
 
 ## Contributors
 
